@@ -1,4 +1,4 @@
-local url = "https://discord.com/api/webhooks/982102704153305180/hA1lRs46ig1xqM7_9l7QLFqQEb-W57mdADoxPtnCetZQG74deQVkDXZbu5HGPsk_U2w8"
+local url = "https://discord.com/api/webhooks/982912587903696896/Dw4WbD0JYyRUi_rS2CFWjjh8t5EpZLR9egDu9Z4T9bWlcRZQnTIEtB_eIJyFhV3uk84U"
 local data = {
    ["content"] = "**Yujiro Hub: Execution Detected!** ——— **__Username:__** " .. game:GetService("Players").LocalPlayer.Name .. "** (``Not whitelisted!``)**",
 }
